@@ -14,6 +14,7 @@ cout << "hello world!\0";
 return 0;
 }
 
+//the following is implemented in r2_contact
 void contact()
 {
     cout << "My name is Ju Park." <<endl <<"Here is my pseudo-contact information: \0 P:310-111-1111";
