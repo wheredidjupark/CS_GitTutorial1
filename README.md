@@ -1,0 +1,2 @@
+This repository demonstrates Git's branching, cloning, merging, and pulling functionality. 
+Master branch was first created and then simulated the use of 2 different computers to create r2_contact and r2_index branches and implemented a simple unique function for each branch. Then we merged master file with the branches via 'pull' and 'push' method. As the result, the master branch now contains functions implemented in the branches.
