@@ -4,7 +4,11 @@
 
 using namespace std;
 
+//<<<<<<< HEAD
 void index();
+//=======
+void contact();
+//>>>>>>> 9c975156cdff09e0a040334caece43ca2902f357
 
 int main()
 {
@@ -21,7 +25,14 @@ cout << "hello world!\0";
 return 0;
 }
 
+//<<<<<<< HEAD
 void index()
 {
     cout <<"this is index"
+//=======
+//the following is implemented in r2_contact
+void contact()
+{
+    cout << "My name is Ju Park." <<endl <<"Here is my pseudo-contact information: \0 P:310-111-1111";
+//>>>>>>> 9c975156cdff09e0a040334caece43ca2902f357
 }
